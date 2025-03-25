@@ -40,6 +40,9 @@ o	Usage: Visualize crime density across different geographic areas, pinpointing 
 o	Purpose: Displays crime distribution by neighbourhood.
 o	Usage: Identify which neighbourhoods report the highest or lowest crime rates, aiding in prioritizing interventions or resource allocation.
 o	Key Insights: Certain neighbourhoods (e.g., the Central Business District) have significantly higher crime rates.
+
+
 Conclusion
 This dashboard is an essential tool for analyzing crime trends through interactive, real-time visualizations. It provides stakeholders with valuable insights to identify high-risk areas, make informed decisions, and develop strategies for reducing crime and improving community safety. Through the use of filters, drilldowns, and geographic analysis, this tool empowers users to act proactively in addressing crime-related challenges.
 
+![Image](https://github.com/user-attachments/assets/8c4b5b58-9ee6-4f9a-801f-fd79575d1f68) 
